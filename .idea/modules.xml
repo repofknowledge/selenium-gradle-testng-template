@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-gradle-testng-template.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-gradle-testng-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium-gradle-testng-template/.idea/modules/selenium-gradle-testng-template_main.iml" filepath="$PROJECT_DIR$/../selenium-gradle-testng-template/.idea/modules/selenium-gradle-testng-template_main.iml" group="selenium-gradle-testng-template" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium-gradle-testng-template/.idea/modules/selenium-gradle-testng-template_test.iml" filepath="$PROJECT_DIR$/../selenium-gradle-testng-template/.idea/modules/selenium-gradle-testng-template_test.iml" group="selenium-gradle-testng-template" />
+    </modules>
+  </component>
+</project>
