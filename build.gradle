@@ -23,6 +23,7 @@ dependencies {
 gradle.startParameter.continueOnFailure = true
 
 test{
+    println("Hello it got started")
     systemProperty 'browser', System.getProperty('browser')
     systemProperty 'includedGroups', System.getProperty('includedGroups')
 
