@@ -10,6 +10,7 @@ public class TC001 extends DriverManager {
 
     @Test(groups = {"regression"})
     public void tc001() {
+        System.out.println("you are inthe test");
        loginPage.loginToApplication();
     }
 }
