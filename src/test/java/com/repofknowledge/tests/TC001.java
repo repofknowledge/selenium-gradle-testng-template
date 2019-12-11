@@ -13,4 +13,10 @@ public class TC001 extends DriverManager {
         System.out.println("you are inthe test");
        loginPage.loginToApplication();
     }
+
+    @Test(groups = {"regression"})
+    public void tc002() {
+        System.out.println("you are inthe test");
+        loginPage.loginToApplication();
+    }
 }

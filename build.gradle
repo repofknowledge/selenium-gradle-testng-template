@@ -31,8 +31,8 @@ test{
         includeGroups << System.getProperty("includedGroups").toString();
 
         options{
-            parallel = 'classes'
-            threadCount = 1
+            parallel = 'methods'
+            threadCount = 2
         }
     }
 

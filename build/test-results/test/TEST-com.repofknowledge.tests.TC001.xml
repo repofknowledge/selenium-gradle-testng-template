@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.repofknowledge.tests.TC001" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-11T08:01:16" hostname="DESKTOP-OHCHA70" time="3.285">
+<testsuite name="com.repofknowledge.tests.TC001" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-12-11T08:54:04" hostname="DESKTOP-OHCHA70" time="9.203">
   <properties/>
-  <testcase name="tc001" classname="com.repofknowledge.tests.TC001" time="3.285"/>
-  <system-out><![CDATA[2019-12-11 13:31:16 INFO  BasePage:20 - before getURL with URL:: http://google.com
-2019-12-11 13:31:19 INFO  BasePage:22 - after getURL with URL:: http://google.com
-2019-12-11 13:31:19 INFO  BasePage:30 - before enterText with text:: Ram
-2019-12-11 13:31:19 INFO  BasePage:32 - after enterText with text:: Ram
+  <testcase name="tc002" classname="com.repofknowledge.tests.TC001" time="5.633"/>
+  <testcase name="tc001" classname="com.repofknowledge.tests.TC001" time="9.903"/>
+  <system-out><![CDATA[you are inthe test
+2019-12-11 14:24:04 INFO  BasePage:20 - before getURL with URL:: http://google.com
+2019-12-11 14:24:04 INFO  DriverManager:25 - Chrome Browser is Launched
+you are inthe test
+2019-12-11 14:24:04 INFO  BasePage:20 - before getURL with URL:: http://google.com
+2019-12-11 14:24:09 INFO  BasePage:22 - after getURL with URL:: http://google.com
+2019-12-11 14:24:09 INFO  BasePage:30 - before enterText with text:: Ram
+2019-12-11 14:24:10 INFO  BasePage:32 - after enterText with text:: Ram
 ]]></system-out>
-  <system-err><![CDATA[]]></system-err>
+  <system-err><![CDATA[Dec 11, 2019 2:24:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
 </testsuite>
