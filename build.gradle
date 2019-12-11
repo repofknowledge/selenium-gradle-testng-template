@@ -20,7 +20,7 @@ dependencies {
 // https://mvnrepository.com/artifact/log4j/log4j
     compile group: 'log4j', name: 'log4j', version: '1.2.17'
 }
-gradle.startParameter.continueOnFailure = true
+//gradle.startParameter.continueOnFailure = true
 
 test{
     println("Hello it got started")

@@ -1,4 +1,4 @@
-T2019-12-11 00:12:27 INFO  BasePage:20 - before getURL with URL:: http://google.com
-S2019-12-11 00:12:30 INFO  BasePage:22 - after getURL with URL:: http://google.com
-J2019-12-11 00:12:30 INFO  BasePage:30 - before enterText with text:: Ram
-I2019-12-11 00:12:30 INFO  BasePage:32 - after enterText with text:: Ram
+T2019-12-11 13:31:16 INFO  BasePage:20 - before getURL with URL:: http://google.com
+S2019-12-11 13:31:19 INFO  BasePage:22 - after getURL with URL:: http://google.com
+J2019-12-11 13:31:19 INFO  BasePage:30 - before enterText with text:: Ram
+I2019-12-11 13:31:19 INFO  BasePage:32 - after enterText with text:: Ram

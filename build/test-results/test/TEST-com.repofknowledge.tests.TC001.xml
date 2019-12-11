@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.repofknowledge.tests.TC001" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-10T18:42:27" hostname="DESKTOP-OHCHA70" time="3.669">
+<testsuite name="com.repofknowledge.tests.TC001" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-12-11T08:01:16" hostname="DESKTOP-OHCHA70" time="3.285">
   <properties/>
-  <testcase name="tc001" classname="com.repofknowledge.tests.TC001" time="3.669"/>
-  <system-out><![CDATA[2019-12-11 00:12:27 INFO  BasePage:20 - before getURL with URL:: http://google.com
-2019-12-11 00:12:30 INFO  BasePage:22 - after getURL with URL:: http://google.com
-2019-12-11 00:12:30 INFO  BasePage:30 - before enterText with text:: Ram
-2019-12-11 00:12:30 INFO  BasePage:32 - after enterText with text:: Ram
+  <testcase name="tc001" classname="com.repofknowledge.tests.TC001" time="3.285"/>
+  <system-out><![CDATA[2019-12-11 13:31:16 INFO  BasePage:20 - before getURL with URL:: http://google.com
+2019-12-11 13:31:19 INFO  BasePage:22 - after getURL with URL:: http://google.com
+2019-12-11 13:31:19 INFO  BasePage:30 - before enterText with text:: Ram
+2019-12-11 13:31:19 INFO  BasePage:32 - after enterText with text:: Ram
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
